@@ -1,6 +1,3 @@
-/* CS 211 PA4
- * Created for: nsn29
- */
 
 #include<stdio.h>
 #include<stdlib.h>
